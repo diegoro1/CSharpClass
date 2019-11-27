@@ -1,0 +1,11 @@
+/Users/diegorodrigues/Desktop/C#_Class/PA1/Problem3/Problem3/bin/Debug/netcoreapp3.0/Problem3
+/Users/diegorodrigues/Desktop/C#_Class/PA1/Problem3/Problem3/bin/Debug/netcoreapp3.0/Problem3.deps.json
+/Users/diegorodrigues/Desktop/C#_Class/PA1/Problem3/Problem3/bin/Debug/netcoreapp3.0/Problem3.runtimeconfig.json
+/Users/diegorodrigues/Desktop/C#_Class/PA1/Problem3/Problem3/bin/Debug/netcoreapp3.0/Problem3.runtimeconfig.dev.json
+/Users/diegorodrigues/Desktop/C#_Class/PA1/Problem3/Problem3/bin/Debug/netcoreapp3.0/Problem3.dll
+/Users/diegorodrigues/Desktop/C#_Class/PA1/Problem3/Problem3/bin/Debug/netcoreapp3.0/Problem3.pdb
+/Users/diegorodrigues/Desktop/C#_Class/PA1/Problem3/Problem3/obj/Debug/netcoreapp3.0/Problem3.csprojAssemblyReference.cache
+/Users/diegorodrigues/Desktop/C#_Class/PA1/Problem3/Problem3/obj/Debug/netcoreapp3.0/Problem3.AssemblyInfoInputs.cache
+/Users/diegorodrigues/Desktop/C#_Class/PA1/Problem3/Problem3/obj/Debug/netcoreapp3.0/Problem3.AssemblyInfo.cs
+/Users/diegorodrigues/Desktop/C#_Class/PA1/Problem3/Problem3/obj/Debug/netcoreapp3.0/Problem3.dll
+/Users/diegorodrigues/Desktop/C#_Class/PA1/Problem3/Problem3/obj/Debug/netcoreapp3.0/Problem3.pdb

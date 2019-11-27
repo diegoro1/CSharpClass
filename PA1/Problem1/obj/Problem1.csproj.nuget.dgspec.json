@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/diegorodrigues/Desktop/C#_Class/PA1/PA1/Problem1.csproj": {}
+    "/Users/diegorodrigues/Desktop/C#_Class/PA1/Problem1/Problem1.csproj": {}
   },
   "projects": {
-    "/Users/diegorodrigues/Desktop/C#_Class/PA1/PA1/Problem1.csproj": {
+    "/Users/diegorodrigues/Desktop/C#_Class/PA1/Problem1/Problem1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/diegorodrigues/Desktop/C#_Class/PA1/PA1/Problem1.csproj",
+        "projectUniqueName": "/Users/diegorodrigues/Desktop/C#_Class/PA1/Problem1/Problem1.csproj",
         "projectName": "Problem1",
-        "projectPath": "/Users/diegorodrigues/Desktop/C#_Class/PA1/PA1/Problem1.csproj",
+        "projectPath": "/Users/diegorodrigues/Desktop/C#_Class/PA1/Problem1/Problem1.csproj",
         "packagesPath": "/Users/diegorodrigues/.nuget/packages/",
-        "outputPath": "/Users/diegorodrigues/Desktop/C#_Class/PA1/PA1/obj/",
+        "outputPath": "/Users/diegorodrigues/Desktop/C#_Class/PA1/Problem1/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
